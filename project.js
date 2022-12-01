@@ -1,0 +1,1 @@
+document.querySelector('.material-symbols-outlined').style.transorm= 'rotate(360deg)'
